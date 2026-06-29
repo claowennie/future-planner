@@ -12,6 +12,10 @@ claudio/server/config.local.json
 # === 个人凭证 / 第三方克隆的 API(含 QQ 音乐 cookie)===
 claudio/qqmusic-api/
 
+# === Claudio 个人数据(网易云 cookie、歌单、口味偏好)===
+claudio/user/
+*.log.err
+
 # === 大模型文件(超 GitHub 100MB 限制)===
 claudio/kokoro-models/
 

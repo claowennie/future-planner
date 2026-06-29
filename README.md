@@ -4,7 +4,15 @@
 复盘记录」收进一个安静好看的单页应用里，配上四季成长树背景和一个会放歌的 AI 电台 Claudio。
 
 数据默认存在浏览器本地（localStorage），可选接入 Supabase 做多端云同步。纯前端可独立部署到
-Cloudflare Pages；Claudio 电台是可选的自托管增强，需要本机跑一个 Node 中枢。
+Cloudflare Pages / Netlify；Claudio 电台是可选的自托管增强，需要本机跑一个 Node 中枢。
+
+## 📸 界面预览
+
+| | |
+|:---:|:---:|
+| ![截图 1](docs/screenshot-1.png) | ![截图 2](docs/screenshot-2.png) |
+| ![截图 3](docs/screenshot-3.png) | ![截图 4](docs/screenshot-4.png) |
+| ![截图 5](docs/screenshot-5.png) | |
 
 ## ✨ 功能一览
 
@@ -113,3 +121,7 @@ future.v2/
 - 番茄钟 / 计时逻辑依赖真实时间戳（`endAt`），**不要**改成 `setInterval` 减数
 - 别提交任何 key：`claudio/server/config.local.json`、Supabase 密钥等
 - `legacy-prebuild/` 是历史存档，不要再动
+
+## 📄 License
+
+[MIT](LICENSE) © 2026 Claire
