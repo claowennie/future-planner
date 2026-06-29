@@ -1,0 +1,57 @@
+{
+  "_说明": "从 QQ 歌单「I LIKE」(554首) 蒸馏出的锚点歌，按情绪归类。Claudio 选歌时优先参考，但不限于此——口味画像见 taste.md。每首是「歌手 歌名」。",
+  "_source": { "from": "qq", "disstid": "9720667187", "title": "I LIKE", "count": 554, "distilled_at": "2026-05-31" },
+  "anchors": [
+    "周杰伦 爱在西元前",
+    "林俊杰 不为谁而作的歌",
+    "方大同 听",
+    "宇多田光 One Last Kiss",
+    "RADWIMPS なんでもないや",
+    "In Love With a Ghost Flowers",
+    "Laufey From The Start",
+    "邓紫棋 红蔷薇白玫瑰",
+    "Gracie Abrams Under / Over",
+    "Cavetown Paul"
+  ],
+  "moods": {
+    "深夜": [
+      "In Love With a Ghost Flowers",
+      "Cavetown Paul",
+      "mxmtoon feelings are fatal",
+      "Ghostly Kisses Stay",
+      "宇多田光 One Last Kiss",
+      "Yung Kai blue"
+    ],
+    "专注": [
+      "Hans Zimmer Day One",
+      "Andrew Prahlow 14.3 Billion Years",
+      "Evan Call A Place to Call Home",
+      "Aldo Ciccolini Gymnopedie No. 1",
+      "小濑村晶 Looking in the Same Direction"
+    ],
+    "通勤": [
+      "Foster The People Pumped Up Kicks",
+      "Gotye Somebody That I Used to Know",
+      "88rising Midsummer Madness",
+      "Harry Styles Sign of the Times"
+    ],
+    "华语情怀": [
+      "周杰伦 爱在西元前",
+      "林俊杰 不为谁而作的歌",
+      "方大同 听",
+      "毛不易 一程山路",
+      "蔡健雅 越来越不懂"
+    ],
+    "治愈温柔": [
+      "Laufey From The Start",
+      "Bruno Major Easily",
+      "The Walters I Love You So",
+      "Kina Can We Kiss Forever?"
+    ],
+    "电影动漫感": [
+      "RADWIMPS なんでもないや",
+      "宇多田光 Beautiful World",
+      "Alexandre Desplat Elisa's Theme"
+    ]
+  }
+}

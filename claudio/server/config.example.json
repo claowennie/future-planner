@@ -1,0 +1,16 @@
+{
+  "_说明": "复制本文件为 config.local.json，填入你的密钥后保存。config.local.json 请勿分享/提交。",
+  "port": 3000,
+
+  "claudeCmd": "claude",
+  "claudeModel": "",
+
+  "musicProvider": "qq",
+  "qqApiBase": "http://localhost:3300",
+  "neteaseApiBase": "http://localhost:3001",
+
+  "fishApiKey": "",
+  "fishModelId": "",
+
+  "corsOrigins": "*"
+}

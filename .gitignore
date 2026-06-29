@@ -1,0 +1,24 @@
+# === 依赖 / 构建产物 ===
+node_modules/
+dist/
+*.log
+
+# === 密钥 / 本地配置(绝不提交)===
+.env
+.env.*
+*.local.json
+claudio/server/config.local.json
+
+# === 个人凭证 / 第三方克隆的 API(含 QQ 音乐 cookie)===
+claudio/qqmusic-api/
+
+# === 大模型文件(超 GitHub 100MB 限制)===
+claudio/kokoro-models/
+
+# === 个人上传的图片 ===
+uploads/
+
+# === 编辑器 / 系统杂项 ===
+.DS_Store
+Thumbs.db
+.vscode/
